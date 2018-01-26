@@ -99,5 +99,23 @@ public class IntArrayWorker
       }
     }
   }
+
+public int getLargest()
+{
+	// TODO Auto-generated method stub
+	return 0;
+}
+
+public int getColTotal(int i)
+{
+	// TODO Auto-generated method stub
+	return 0;
+}
+
+public int getCount(int i)
+{
+	// TODO Auto-generated method stub
+	return 0;
+}
  
 }
